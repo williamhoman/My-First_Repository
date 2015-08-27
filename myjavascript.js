@@ -1,1 +1,1 @@
-$('div').css('background', 'red');
+//$('div').css('background', 'gray');
